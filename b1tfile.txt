@@ -1,1 +1,4 @@
 This is a text file, just to show that it was created using branch 1
+
+1. This text is to check if it can be merged from ain branch directly.
+2. 
