@@ -1,0 +1,5 @@
+Learning Important Git Commands:
+1. git config --global color.ui false
+Turns off all the colored text in git
+
+2. 
